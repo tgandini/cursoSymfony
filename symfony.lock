@@ -15,7 +15,7 @@
         ]
     },
     "doctrine/cache": {
-        "version": "1.10.2"
+        "version": "1.11.0"
     },
     "doctrine/collections": {
         "version": "1.6.7"
@@ -71,7 +71,7 @@
         "version": "1.2.1"
     },
     "doctrine/migrations": {
-        "version": "3.1.1"
+        "version": "3.1.2"
     },
     "doctrine/orm": {
         "version": "2.8.4"

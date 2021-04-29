@@ -1,0 +1,14 @@
+{% for i in 1..  numeroParametro  %}
+	<h1>Repetición Número:
+		{{i}}</h1>
+{% endfor %}
+
+{% if numeroParametro is even %}
+
+	<div style="text-decoration: underline; color: #ff0000;">
+		<strong>
+			<h2>Se ingresó el número
+				{{numeroParametro}}. El mismo es PAR</h2>
+		</strong>
+	</div>
+{% endif %}
